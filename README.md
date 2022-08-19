@@ -81,7 +81,7 @@ Choose to walk along with a video for setting up SSH or to follow the instructio
 ---
 
 ## Forking the Repository
-*This step will need to be completed once per repository you wish a your own copy of on GitHub*
+*This step will need to be completed once per repository you wish to have your own copy of on GitHub*
 1. On the GitHub page this README is located, near the top right select `Fork`.
 2. Under `Owner`, select your account.
 3. Under `Repository name`, you may adjust the name of the repository if you like.
