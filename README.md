@@ -144,7 +144,7 @@ Choose to walk along with a video for setting up a personal access token or to f
 *This step will typically be done one or more times on a project. If connected to Codegrade, this will cause your project to be scored again.*
 1. Type:
     ```
-    git push
+    git push origin main
     ```
 2. Return to your GitHub repository page. Refresh if needed.
 3. Check that the README.md file has been recently updated.
