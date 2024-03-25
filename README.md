@@ -1,6 +1,6 @@
 # Git Configuration Walkthrough
 
-This github repository will walk you through setting up your Git and GitHub accounts. The intention of this project is to ensure your computer's environment is set up correctly and to give a preview of the Git work flow.  A deeper-dive into Git with additional functionality and explanations of each command will be part of your continued learning at BloomTech.
+This github repository will walk you through setting up your Git and GitHub accounts. The intention of this project is to ensure your computer's environment is set up correctly and to give a preview of the Git work flow.  A deeper-dive into Git with additional functionality and explanations of each command will be part of your continued learning at BloomTech..
 
 ---
 
